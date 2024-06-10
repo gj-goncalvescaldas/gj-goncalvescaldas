@@ -1,16 +1,21 @@
-## Hi there 👋
+# 👋 Hello World! 
 
-<!--
-**gj-goncalvescaldas/gj-goncalvescaldas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hello! I'm Gustavo João Gonçalves Caldas, a passionate programmer and data engineer. I created this GitHub repository because of my love for coding and to document my journey in software development and data engineering.
 
-Here are some ideas to get you started:
+Although my GitHub is currently empty, it’s because I created this repository on June 10th, 2024. This date marks a significant milestone in my recovery journey from a serious accident on November 19th, 2023, which left me with a paralyzed hand and required three surgeries. Over the past months, my primary focus has been on my recovery.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Now that I’m gradually regaining my ability to use the computer, I’m excited to start working on GitHub again. I miss the joy of coding and the satisfaction of solving problems through technology. This repository will be a reflection of my progress and my dedication to getting back to my best self.
+
+Thank you for visiting my profile. I appreciate your patience and interest in following my journey. Let's build something amazing together as I continue my path to recovery!
+
+## 📅 Last Update
+
+![GitHub last commit](https://img.shields.io/github/last-commit/gj-goncalvescaldas/gj-goncalvescaldas)
+
+## 🤝 Contribution
+
+Contributions are welcome! Please see the [Contribution Guide](CONTRIBUTING.md) for more details.
+
+## 💻 Programming Languages
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gj-goncalvescaldas&layout=compact)](https://github.com/gj-goncalvescaldas)
