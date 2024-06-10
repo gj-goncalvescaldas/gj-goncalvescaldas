@@ -5,7 +5,7 @@
   <a href="https://www.linkedin.com/in/gustavocaldas22/"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=LinkedIn&logoColor=white"></a>
   <a href="https://www.kaggle.com/gustavojgcaldas"><img src="https://img.shields.io/badge/-Kaggle-blue?style=flat-square&logo=Kaggle&logoColor=white"></a>
   <a href="mailto:gj.goncalvescaldas@gmail.com"><img src="https://img.shields.io/badge/-Gmail-red?style=flat-square&logo=Gmail&logoColor=white"></a>
-  <a href="https://gj.goncalvescaldas.github.io"><img src="https://img.shields.io/badge/-Website-green?style=flat-square&logo=Google-Chrome&logoColor=white"></a>
+  <a href="https://gj-goncalvescaldas.github.io/"><img src="https://img.shields.io/badge/-Website-green?style=flat-square&logo=Google-Chrome&logoColor=white"></a>
 </p>
 
 Hello! I'm Gustavo João Gonçalves Caldas, a passionate programmer and data engineer. I created this GitHub repository because of my love for coding and to document my journey in software development and data engineering.
