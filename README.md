@@ -1,5 +1,13 @@
 # 👋 Hello World! 
 
+## Lifelong Learner and Data Engineer
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=LinkedIn&logoColor=white&link=https://www.linkedin.com/in/gustavocaldas22/)](https://www.linkedin.com/in/gustavocaldas22/)
+
+[![Kaggle](https://img.shields.io/badge/-Kaggle-blue?style=flat-square&logo=Kaggle&logoColor=white&link=https://www.kaggle.com/gustavojgcaldas)](https://www.kaggle.com/gustavojgcaldas)
+
+[![Gmail](https://img.shields.io/badge/-Gmail-red?style=flat-square&logo=Gmail&logoColor=white)](mailto:gj.goncalvescaldas@gmail.com)
+
 Hello! I'm Gustavo João Gonçalves Caldas, a passionate programmer and data engineer. I created this GitHub repository because of my love for coding and to document my journey in software development and data engineering.
 
 Although my GitHub is currently empty, it’s because I created this repository on June 10th, 2024. This date marks a significant milestone in my recovery journey from a serious accident on November 19th, 2023, which left me with a paralyzed hand and required three surgeries. Over the past months, my primary focus has been on my recovery.
