@@ -1,7 +1,4 @@
 # 👋 Hello World! 
-
-## Lifelong Learner and Data Engineer
-
 ## Lifelong Learner and Data Engineer
 
 <p align="center">
