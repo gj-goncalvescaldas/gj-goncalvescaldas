@@ -1,5 +1,5 @@
 # 👋 Hello World! 
-## Lifelong Learner and Data Engineer
+## Lifelong Learner and Data Enthusiast in Engineering, Machine Learning, and AI
 
 <p align="center">
   <a href="https://www.linkedin.com/in/gustavocaldas22/"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=LinkedIn&logoColor=white"></a>
@@ -8,13 +8,9 @@
   <a href="https://gj-goncalvescaldas.github.io/"><img src="https://img.shields.io/badge/-Website-green?style=flat-square&logo=Google-Chrome&logoColor=white"></a>
 </p>
 
-Hello! I'm Gustavo João Gonçalves Caldas, a passionate programmer and data engineer. I created this GitHub repository because of my love for coding and to document my journey in software development and data engineering.
+Hello! I'm Gustavo João Gonçalves Caldas, a passionate programmer and data enthusiast, specializing in data engineering, machine learning, and artificial intelligence. I love organizing complex data and transforming it into actionable insights and predictions that drive impactful solutions. This GitHub repository is where I document my journey and build projects to showcase my skills.
 
-Although my GitHub is currently empty, it’s because I created this repository on June 10th, 2024. This date marks a significant milestone in my recovery journey from a serious accident on November 19th, 2023, which left me with a paralyzed hand and required three surgeries. Over the past months, my primary focus has been on my recovery.
-
-Now that I’m gradually regaining my ability to use the computer, I’m excited to start working on GitHub again. I miss the joy of coding and the satisfaction of solving problems through technology. This repository will be a reflection of my progress and my dedication to getting back to my best self.
-
-Thank you for visiting my profile. I appreciate your patience and interest in following my journey. Let's build something amazing together as I continue my path to recovery!
+Thank you for stopping by. I’m excited to share my work and connect with others who are passionate about leveraging data for a brighter future!
 
 ## 📅 Last Update
 
