@@ -14,7 +14,7 @@ Thank you for stopping by. I’m excited to share my work and connect with other
 
 ## 📅 Last Update
 
-![GitHub last commit](https://img.shields.io/github/last-commit/gj-goncalvescaldas/gj-goncalvescaldas)
+![GitHub last commit](https://img.shields.io/github/last-commit/gj-goncalvescaldas/gj-goncalvescaldas?cacheSeconds=60)
 
 ## 🤝 Contribution
 
