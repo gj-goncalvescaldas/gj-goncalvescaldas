@@ -12,9 +12,9 @@ Hello! I'm Gustavo João Gonçalves Caldas, a passionate programmer and data ent
 
 Thank you for stopping by. I’m excited to share my work and connect with others who are passionate about leveraging data for a brighter future!
 
-## 📅 Last Update
+## 📅 GitHub Streak Stats
 
-![GitHub last commit](https://img.shields.io/github/last-commit/gj-goncalvescaldas/gj-goncalvescaldas?cacheSeconds=60)
+[![GitHub Streak](https://streak-stats.demolab.com?user=gj-goncalvescaldas&exclude_days=Sun%2CSat)](https://git.io/streak-stats)
 
 ## 🤝 Contribution
 
