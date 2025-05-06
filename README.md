@@ -14,7 +14,7 @@ Thank you for stopping by. I’m excited to share my work and connect with other
 
 ## 📅 GitHub Streak Stats
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=gj-goncalvescaldas)](https://github.com/gj-goncalvescaldas/github-profile-trophy)
+[![GitHub Streak](https://github-readme-streak-stats-ten-zeta.vercel.app?user=gj-goncalvescladas&theme=whatsapp-dark2&exclude_days=Sun%2CSat)](https://git.io/streak-stats)
 
 
 ## 💻 Programming Languages
