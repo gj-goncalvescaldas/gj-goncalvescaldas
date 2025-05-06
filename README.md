@@ -1,5 +1,5 @@
 # 👋 Hello World! 
-## Lifelong Learner and Data Enthusiast in Engineering, Machine Learning, and AI
+## Lifelong Learner 
 
 <p align="center">
   <a href="https://www.linkedin.com/in/gustavocaldas22/"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=LinkedIn&logoColor=white"></a>
@@ -12,13 +12,10 @@ Hello! I'm Gustavo João Gonçalves Caldas, a passionate programmer and data ent
 
 Thank you for stopping by. I’m excited to share my work and connect with others who are passionate about leveraging data for a brighter future!
 
-## 📅 Last Update
+## 📅 GitHub Streak Stats
 
-![GitHub last commit](https://img.shields.io/github/last-commit/gj-goncalvescaldas/gj-goncalvescaldas?cacheSeconds=60)
+[![GitHub Streak](https://github-readme-streak-stats-ten-zeta.vercel.app/?user=gj-goncalvescaldas&theme=shades-of-purple&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&exclude_days=Sun%2CSat)](https://git.io/streak-stats)
 
-## 🤝 Contribution
-
-Contributions are welcome! Please see the [Contribution Guide](CONTRIBUTING.md) for more details.
 
 ## 💻 Programming Languages
 
