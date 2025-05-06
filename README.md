@@ -16,9 +16,6 @@ Thank you for stopping by. I’m excited to share my work and connect with other
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=gj-goncalvescaldas&exclude_days=Sun%2CSat)](https://git.io/streak-stats)
 
-## 🤝 Contribution
-
-Contributions are welcome! Please see the [Contribution Guide](CONTRIBUTING.md) for more details.
 
 ## 💻 Programming Languages
 
