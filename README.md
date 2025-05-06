@@ -14,7 +14,7 @@ Thank you for stopping by. I’m excited to share my work and connect with other
 
 ## 📅 GitHub Streak Stats
 
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=gj-goncalvescaldas&exclude_days=Sun%2CSat" alt="GitHub Streak" /></a>
+[![trophy](https://github-profile-trophy.vercel.app/?username=gj-goncalvescaldas)](https://github.com/gj-goncalvescaldas/github-profile-trophy)
 
 
 ## 💻 Programming Languages
