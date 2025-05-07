@@ -2,7 +2,7 @@ name: Update GitHub Streak Daily
 
 on:
   schedule:
-    cron: '14 0 * * *'  # Todos los días a las 00:14 UTC
+    - cron: '*/15 * * * *'  # Cada 15 minutos
   workflow_dispatch:
 
 jobs:
