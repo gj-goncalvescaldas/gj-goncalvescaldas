@@ -1,5 +1,5 @@
 # 👋 Hello World! 
-## Lifelong Learner 
+## Lifelong Learner
 
 <p align="center">
   <a href="https://www.linkedin.com/in/gustavocaldas22/"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=LinkedIn&logoColor=white"></a>
