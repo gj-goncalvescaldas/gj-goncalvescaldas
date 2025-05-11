@@ -1,9 +1,8 @@
 name: 🔄 Atualizar README com novo timestamp
 
 on:
-  schedule:
-    - cron: "0 */3 * * *"  # A cada 3 horas
-  workflow_dispatch:        # Também pode ser executado manualmente
+  push:                      # Executa a cada commit (em qualquer branch)
+  workflow_dispatch:         # Também pode ser executado manualmente
 
 jobs:
   update-readme:
@@ -21,5 +20,5 @@ jobs:
         run: |
           git config user.name "github-actions"
           git config user.email "github-actions@github.com"
-          git commit -am "🔄 Atualizar timestamp do GitHub Streak"
+          git commit -am "🔄 Atualizar timestamp do GitHub Streak" || echo "Sem alterações"
           git push
