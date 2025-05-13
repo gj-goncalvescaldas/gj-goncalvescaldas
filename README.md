@@ -10,10 +10,6 @@
   </a>
   <a href="https://gj-goncalvescaldas.github.io/">
     <img src="https://img.shields.io/badge/-Website-green?style=flat-square&logo=Google-Chrome&logoColor=white">
-  </a>
-  <a href="https://leetcode.com/u/gj-goncalvescaldas/">
-    <img src="https://img.shields.io/badge/-LeetCode-black?style=flat-square&logo=LeetCode&logoColor=white">
-  </a>
 </p>
 
 Hello! I'm Gustavo João Gonçalves Caldas, a passionate data enthusiast, specializing in data engineering, machine learning, and artificial intelligence. I love organizing complex data and transforming it into actionable insights and predictions that drive impactful solutions. This GitHub repository is where I document my journey and build projects to showcase my skills.
