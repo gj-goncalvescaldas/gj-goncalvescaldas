@@ -1,5 +1,5 @@
 # 👋 Hello World! 
-## Lifelong Learner
+### Lifelong Learner
 
 <p align="center">
   <a href="https://www.linkedin.com/in/gustavocaldas22/">
