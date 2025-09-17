@@ -2,7 +2,7 @@
 ### Lifelong Learner
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/gustavocaldas22/">
+  <a href="https://www.linkedin.com/in/gustavocaldas0/">
     <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=LinkedIn&logoColor=white">
   </a>
   <a href="mailto:gj.goncalvescaldas@gmail.com">
