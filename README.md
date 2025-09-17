@@ -2,20 +2,18 @@
 ### Lifelong Learner
 
 <p align="center">
-  <!-- LinkedIn -->
-  <a href="https://www.linkedin.com/in/gustavocaldas0/" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=LinkedIn&logoColor=white">
-  </a>
+  
+  <a href="https://www.linkedin.com/in/gustavocaldas0/" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=LinkedIn&logoColor=white"> 
+  </a> 
+  
+  <a href="mailto:gj.goncalvescaldas@gmail.com" target="_blank"> 
+    <img src="https://img.shields.io/badge/-Gmail-red?style=flat-square&logo=Gmail&logoColor=white"> 
+  </a> 
 
-  <!-- Gmail -->
-  <a href="mailto:gj.goncalvescaldas@gmail.com">
-    <img src="https://img.shields.io/badge/-Gmail-red?style=flat-square&logo=Gmail&logoColor=white">
-  </a>
-
-  <!-- Website -->
-  <a href="https://gj-goncalvescaldas.github.io/" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/-Website-green?style=flat-square&logo=Google-Chrome&logoColor=white">
-  </a>
+  <a href="https://gj-goncalvescaldas.github.io/" target="_blank"> 
+    <img src="https://img.shields.io/badge/-Website-green?style=flat-square&logo=Google-Chrome&logoColor=white"> 
+  </a> 
 </p>
 
 Hello! I'm Gustavo João Gonçalves Caldas, a passionate data enthusiast, specializing in data engineering, machine learning, and artificial intelligence. I love organizing complex data and transforming it into actionable insights and predictions that drive impactful solutions. This GitHub repository is where I document my journey and build projects to showcase my skills.
