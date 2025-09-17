@@ -2,13 +2,18 @@
 ### Lifelong Learner
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/gustavocaldas0/" target="_blank">
+  <!-- LinkedIn -->
+  <a href="https://www.linkedin.com/in/gustavocaldas0/" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=LinkedIn&logoColor=white">
   </a>
-  <a href="mailto:gj.goncalvescaldas@gmail.com" target="_blank">
+
+  <!-- Gmail -->
+  <a href="mailto:gj.goncalvescaldas@gmail.com">
     <img src="https://img.shields.io/badge/-Gmail-red?style=flat-square&logo=Gmail&logoColor=white">
   </a>
-  <a href="https://gj-goncalvescaldas.github.io/" target="_blank">
+
+  <!-- Website -->
+  <a href="https://gj-goncalvescaldas.github.io/" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/-Website-green?style=flat-square&logo=Google-Chrome&logoColor=white">
   </a>
 </p>
