@@ -23,7 +23,7 @@ Thank you for stopping by. I’m excited to share my work and connect with other
 ## 📅 GitHub Streak Stats
 
 <!--GITHUB_STREAK-->
-![GitHub Streak](https://github-readme-streak-stats-ten-zeta.vercel.app/?user=gj-goncalvescaldas&theme=shades-of-purple&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&timestamp=1760641280)
+![GitHub Streak](https://github-readme-streak-stats-ten-zeta.vercel.app/?user=gj-goncalvescaldas&theme=shades-of-purple&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&timestamp=1779349836)
 <!--GITHUB_STREAK-->
 
 ## 💻 Programming Languages
